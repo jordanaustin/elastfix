@@ -1,3 +1,5 @@
+<h1>Elastfix</h1>
+
 A small jQuery plugin to help fix the elastic scrolling issue when you prevent touchmove on the html body, but want to allow the CSS property "-webkit-overflow-scroll: touch;" to work correctly.
 
 For more info about this, follow @missingdesign on twitter. Find me on Forrst.com as @_jordan.

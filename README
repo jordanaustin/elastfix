@@ -6,5 +6,5 @@ but want to allow the CSS property "-webkit-overflow-scroll: touch;" to work cor
 For more info about this, follow @missingdesign on twitter. Find me on Forrst.com as @_jordan.
 
 After I created this I stumbled on something by @joelambert, that's just straight js, and seems to work just as good. 
-I'm not sure if it works dynamically added content, but should be easy to work with, see: 
+I'm not sure if it works with dynamically added content, but should be easy to alter if not, see: 
 https://github.com/joelambert/ScrollFix

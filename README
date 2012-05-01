@@ -1,7 +1,10 @@
 *Elastfix*
 
-A small jQuery plugin to help fix the iOS 5 elastic scrolling issue when you prevent touchmove on the html body, but want to allow the CSS property "-webkit-overflow-scroll: touch;" to work correctly.
+A small jQuery plugin to help fix the iOS 5 elastic scrolling issue when you prevent touchmove on the html body, 
+but want to allow the CSS property "-webkit-overflow-scroll: touch;" to work correctly.
 
 For more info about this, follow @missingdesign on twitter. Find me on Forrst.com as @_jordan.
 
-After I created this I stumbled on something by @joelambert, that's just straight js, and seems to work just as good. I'm not sure if it works dynamically added content, but should be easy to work with, see: https://github.com/joelambert/ScrollFix
+After I created this I stumbled on something by @joelambert, that's just straight js, and seems to work just as good. 
+I'm not sure if it works dynamically added content, but should be easy to work with, see: 
+https://github.com/joelambert/ScrollFix
